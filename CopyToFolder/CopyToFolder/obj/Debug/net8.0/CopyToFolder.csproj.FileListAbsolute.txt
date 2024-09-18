@@ -1,0 +1,15 @@
+C:\Users\amiro\source\repos\CopyToFolder\CopyToFolder\bin\Debug\net8.0\CopyToFolder.exe
+C:\Users\amiro\source\repos\CopyToFolder\CopyToFolder\bin\Debug\net8.0\CopyToFolder.deps.json
+C:\Users\amiro\source\repos\CopyToFolder\CopyToFolder\bin\Debug\net8.0\CopyToFolder.runtimeconfig.json
+C:\Users\amiro\source\repos\CopyToFolder\CopyToFolder\bin\Debug\net8.0\CopyToFolder.dll
+C:\Users\amiro\source\repos\CopyToFolder\CopyToFolder\bin\Debug\net8.0\CopyToFolder.pdb
+C:\Users\amiro\source\repos\CopyToFolder\CopyToFolder\obj\Debug\net8.0\CopyToFolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amiro\source\repos\CopyToFolder\CopyToFolder\obj\Debug\net8.0\CopyToFolder.AssemblyInfoInputs.cache
+C:\Users\amiro\source\repos\CopyToFolder\CopyToFolder\obj\Debug\net8.0\CopyToFolder.AssemblyInfo.cs
+C:\Users\amiro\source\repos\CopyToFolder\CopyToFolder\obj\Debug\net8.0\CopyToFolder.csproj.CoreCompileInputs.cache
+C:\Users\amiro\source\repos\CopyToFolder\CopyToFolder\obj\Debug\net8.0\CopyToFolder.sourcelink.json
+C:\Users\amiro\source\repos\CopyToFolder\CopyToFolder\obj\Debug\net8.0\CopyToFolder.dll
+C:\Users\amiro\source\repos\CopyToFolder\CopyToFolder\obj\Debug\net8.0\refint\CopyToFolder.dll
+C:\Users\amiro\source\repos\CopyToFolder\CopyToFolder\obj\Debug\net8.0\CopyToFolder.pdb
+C:\Users\amiro\source\repos\CopyToFolder\CopyToFolder\obj\Debug\net8.0\CopyToFolder.genruntimeconfig.cache
+C:\Users\amiro\source\repos\CopyToFolder\CopyToFolder\obj\Debug\net8.0\ref\CopyToFolder.dll

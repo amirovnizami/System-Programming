@@ -1,0 +1,15 @@
+C:\Users\amiro\source\repos\Asynchronous Method, ThreadPool\Asynchronous Method, ThreadPool\bin\Debug\net8.0\Asynchronous Method, ThreadPool.exe
+C:\Users\amiro\source\repos\Asynchronous Method, ThreadPool\Asynchronous Method, ThreadPool\bin\Debug\net8.0\Asynchronous Method, ThreadPool.deps.json
+C:\Users\amiro\source\repos\Asynchronous Method, ThreadPool\Asynchronous Method, ThreadPool\bin\Debug\net8.0\Asynchronous Method, ThreadPool.runtimeconfig.json
+C:\Users\amiro\source\repos\Asynchronous Method, ThreadPool\Asynchronous Method, ThreadPool\bin\Debug\net8.0\Asynchronous Method, ThreadPool.dll
+C:\Users\amiro\source\repos\Asynchronous Method, ThreadPool\Asynchronous Method, ThreadPool\bin\Debug\net8.0\Asynchronous Method, ThreadPool.pdb
+C:\Users\amiro\source\repos\Asynchronous Method, ThreadPool\Asynchronous Method, ThreadPool\obj\Debug\net8.0\Asynchronous Method, ThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amiro\source\repos\Asynchronous Method, ThreadPool\Asynchronous Method, ThreadPool\obj\Debug\net8.0\Asynchronous Method, ThreadPool.AssemblyInfoInputs.cache
+C:\Users\amiro\source\repos\Asynchronous Method, ThreadPool\Asynchronous Method, ThreadPool\obj\Debug\net8.0\Asynchronous Method, ThreadPool.AssemblyInfo.cs
+C:\Users\amiro\source\repos\Asynchronous Method, ThreadPool\Asynchronous Method, ThreadPool\obj\Debug\net8.0\Asynchronous Method, ThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\amiro\source\repos\Asynchronous Method, ThreadPool\Asynchronous Method, ThreadPool\obj\Debug\net8.0\Asynchronous Method, ThreadPool.sourcelink.json
+C:\Users\amiro\source\repos\Asynchronous Method, ThreadPool\Asynchronous Method, ThreadPool\obj\Debug\net8.0\Asynchronous Method, ThreadPool.dll
+C:\Users\amiro\source\repos\Asynchronous Method, ThreadPool\Asynchronous Method, ThreadPool\obj\Debug\net8.0\refint\Asynchronous Method, ThreadPool.dll
+C:\Users\amiro\source\repos\Asynchronous Method, ThreadPool\Asynchronous Method, ThreadPool\obj\Debug\net8.0\Asynchronous Method, ThreadPool.pdb
+C:\Users\amiro\source\repos\Asynchronous Method, ThreadPool\Asynchronous Method, ThreadPool\obj\Debug\net8.0\Asynchronous Method, ThreadPool.genruntimeconfig.cache
+C:\Users\amiro\source\repos\Asynchronous Method, ThreadPool\Asynchronous Method, ThreadPool\obj\Debug\net8.0\ref\Asynchronous Method, ThreadPool.dll

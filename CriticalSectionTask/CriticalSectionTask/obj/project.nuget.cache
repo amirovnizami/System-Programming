@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TaLPTsrrUjc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amiro\\Desktop\\System-Programming\\CriticalSectionTask\\CriticalSectionTask\\CriticalSectionTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amiro\\.nuget\\packages\\bogus\\35.6.1\\bogus.35.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
